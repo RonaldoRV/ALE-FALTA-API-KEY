@@ -1,0 +1,852 @@
+{
+  "questions": [
+    {
+      "question": "hola bebe",
+      "answer": "hola soy ale me gustaria hablar contigo"
+    },
+    {
+      "question": "cual es la poblacion estudiantil actual",
+      "answer": "La poblacion estudiantil actual de Unipaz varia y puede cambiar de un periodo academico a otro. Te recomendamos consultar la informacion mas actualizada en el sitio web oficial de Unipaz."
+    },
+    {
+      "question": "cuanto somos en unipaz",
+      "answer": "El numero de estudiantes en Unipaz puede variar. Para obtener cifras exactas, te aconsejamos visitar el sitio web oficial de la institucion o contactar a la oficina de admisiones."
+    },
+    {
+      "question": "cuanto estudiantes hay en unipaz",
+      "answer": "La cantidad de estudiantes en Unipaz puede cambiar en cada semestre. Te sugerimos verificar las estadisticas mas recientes en el sitio web de la institucion o ponerte en contacto con el departamento de admisiones."
+    },
+    {
+      "question": "que tan grande es la unipaz en estudiantes",
+      "answer": "UNIPAZ, la Universidad de la Paz, es una institucion educativa que en la actualidad cuenta con aproximadamente 4,5oo estudiantes matriculados en sus programas academicos. Estos estudiantes estan distribuidos a lo largo de dos jornadas, tanto diurna como nocturna, lo que demuestra la versatilidad de la universidad para atender las necesidades de una amplia gama de estudiantes"
+    },
+    {
+      "question": "cuanto estudiantes tenemos en unipaz",
+      "answer": "UNIPAZ, la Universidad de la Paz, es una institucion educativa que en la actualidad cuenta con aproximadamente 4,5oo estudiantes matriculados en sus programas academicos. Estos estudiantes estan distribuidos a lo largo de dos jornadas, tanto diurna como nocturna, lo que demuestra la versatilidad de la universidad para atender las necesidades de una amplia gama de estudiantes"
+    },
+    {
+      "question": "como te llamas",
+      "answer": "Mi nombre es Ale y estoy dispuesta a ayudarte en lo que necesites"
+    },
+    {
+      "question": "quien eres",
+      "answer": "Mi nombre es Ale y estoy dispuesta a ayudarte en lo que necesites"
+    },
+    {
+      "question": "me ayudas",
+      "answer": "Claro! Estoy aqui para ayudarte. En que puedo asistirte en este momento?"
+    },
+    {
+      "question": "hola",
+      "answer": "Hola! En que puedo ayudarte hoy?"
+    },
+    {
+      "question": "presentate",
+      "answer": "Soy un ALE estoy programada para responder preguntas y brindar asistencia en linea."
+    },
+    {
+      "question": "tu nombre",
+      "answer": "Mi nombre es Ale y estoy dispuesta a ayudarte en lo que necesites"
+    },
+    {
+      "question": "dime tu nombre",
+      "answer": "Mi nombre es Ale y estoy dispuesta a ayudarte en lo que necesites"
+    },
+    {
+      "question": "cual es tu nombre",
+      "answer": "Mi nombre es Ale y estoy dispuesta a ayudarte en lo que necesites"
+    },
+    {
+      "question": "puedes decirme tu nombre",
+      "answer": "Mi nombre es Ale and estoy dispuesta a ayudarte en lo que necesites"
+    },
+    {
+      "question": "me puedes decir tu nombre",
+      "answer": "Mi nombre es Ale y estoy dispuesta a ayudarte en lo que necesites"
+    },
+    {
+      "question": "me dirias tu nombre",
+      "answer": "Mi nombre es Ale and estoy dispuesta a ayudarte en lo que necesites"
+    },
+    {
+      "question": "me puedes decir quien eres",
+      "answer": "Soy un chat bot disenado para proporcionar informacion y asistencia en linea respecto al Instituto universitario de la paz."
+    },
+    {
+      "question": "que puedes hacer por mi",
+      "answer": "Puedo proporcionarte informacion, ayudarte a responder preguntas, brindarte asistencia en tareas especificas y mas. En que puedo ayudarte hoy?"
+    },
+    {
+      "question": "necesito tu ayuda",
+      "answer": "Estoy aqui para ayudarte. En que puedo asistirte en este momento?"
+    },
+    {
+      "question": "de que eres capaz",
+      "answer": "Puedo realizar una variedad de tareas, como proporcionar informacion, responder preguntas, brindar asistencia en tareas especificas y mas. En que necesitas ayuda?"
+    },
+    {
+      "question": "ayudame con ciertas preguntas",
+      "answer": "Con gusto. Por favor, plantea tus preguntas y hare lo posible por responderlas."
+    },
+    {
+      "question": "que funciones tienes",
+      "answer": "Mis funciones incluyen proporcionar informacion, responder preguntas, ayudar con tareas especificas y brindar asistencia. En que puedo ayudarte hoy?"
+    },
+    {
+      "question": "dime lo que sabes hacer",
+      "answer": "Puedo realizar una variedad de tareas, desde proporcionar informacion hasta ayudarte con preguntas especificas. En que puedo ayudarte en este momento?"
+    },
+    {
+      "question": "explicame tus habilidades",
+      "answer": "Tengo la capacidad de proporcionar informacion, responder preguntas, brindar asistencia y ayudarte en una variedad de tareas. En que puedo ayudarte hoy?"
+    },
+    {
+      "question": "muestrame tus capacidades",
+      "answer": "Mis capacidades incluyen proporcionarte informacion, responder preguntas y ayudarte en tareas especificas. En que puedo asistirte?"
+    },
+    {
+      "question": "cuales son tus funciones",
+      "answer": "Mis funciones principales son proporcionarte informacion, responder preguntas y brindarte asistencia en tareas especificas. En que puedo ayudarte hoy?"
+    },
+    {
+      "question": "puedes hacer algo por mi",
+      "answer": "Claro, estoy aqui para ayudarte.En que puedo asistirte en este momento?"
+    },
+    {
+      "question": "que programas ofrece unipaz",
+      "answer": "La Universidad de la Paz (UNIPAZ) ofrece los siguientes programas de pregrado: Administracion de Negocios Internacionales, Comunicacion Social, Ingenieria Agroindustrial, Ingenieria Agronomica, Ingenieria Ambiental y de Saneamiento, Ingenieria Informatica, Ingenieria de Produccion, Ingenieria en Higiene y Seguridad Industrial"
+    },
+    {
+      "question": "carreras de unipaz",
+      "answer": "La Universidad de la Paz (UNIPAZ) ofrece los siguientes programas de pregrado: Administracion de Negocios Internacionales, Comunicacion Social, Ingenieria Agroindustrial, Ingenieria Agronomica, Ingenieria Ambiental y de Saneamiento, Ingenieria Informatica, Ingenieria de Produccion, Ingenieria en Higiene y Seguridad Industrial"
+    },
+    {
+      "question": "hablame sobre los programas academicos de unipaz",
+      "answer": "Unipaz ofrece una variedad de programas academicos que cubren diversas areas de estudio. Estos programas incluyen licenciaturas, maestrias y programas de educacion continua. Para obtener informacion detallada sobre los programas disponibles, te recomiendo visitar el sitio web oficial de Unipaz o contactar a la oficina de admisiones."
+    },
+    {
+      "question": "cuales son las carreras en unipaz",
+      "answer": "La Universidad de la Paz (UNIPAZ) ofrece los siguientes programas de pregrado: Administracion de Negocios Internacionales, Comunicacion Social, Ingenieria Agroindustrial, Ingenieria Agronomica, Ingenieria Ambiental y de Saneamiento, Ingenieria Informatica, Ingenieria de Produccion, Ingenieria en Higiene y Seguridad Industrial"
+    },
+    {
+      "question": "cuales son los programas academicos en unipaz",
+      "answer": "La Universidad de la Paz (UNIPAZ) ofrece los siguientes programas de pregrado: Administracion de Negocios Internacionales, Comunicacion Social, Ingenieria Agroindustrial, Ingenieria Agronomica, Ingenieria Ambiental y de Saneamiento, Ingenieria Informatica, Ingenieria de Produccion, Ingenieria en Higiene y Seguridad Industrial"
+    },
+    {
+      "question": "cuales son las opciones de pre-grado en unipaz",
+      "answer": "La Universidad de la Paz (UNIPAZ) ofrece los siguientes programas de pregrado: Administracion de Negocios Internacionales, Comunicacion Social, Ingenieria Agroindustrial, Ingenieria Agronomica, Ingenieria Ambiental y de Saneamiento, Ingenieria Informatica, Ingenieria de Produccion, Ingenieria en Higiene y Seguridad Industrial"
+    },
+    {
+      "question": "cuales son las opciones de post-grado en unipaz",
+      "answer": "La Universidad de la Paz (UNIPAZ) ofrece los siguientes programas de pregrado: Administracion de Negocios Internacionales, Comunicacion Social, Ingenieria Agroindustrial, Ingenieria Agronomica, Ingenieria Ambiental y de Saneamiento, Ingenieria Informatica, Ingenieria de Produccion, Ingenieria en Higiene y Seguridad Industrial"
+    },
+    {
+      "question": "que opciones academicas tiene unipaz",
+      "answer": "La Universidad de la Paz (UNIPAZ) ofrece los siguientes programas de pregrado: Administracion de Negocios Internacionales, Comunicacion Social, Ingenieria Agroindustrial, Ingenieria Agronomica, Ingenieria Ambiental y de Saneamiento, Ingenieria Informatica, Ingenieria de Produccion, Ingenieria en Higiene y Seguridad Industrial"
+    },
+    {
+      "question": "cuando fue fundada la universidad",
+      "answer": "La Universidad de La Paz (Unipaz) fue fundada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "cuando se creo la unipaz",
+      "answer": "Unipaz fue creada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "cuando se fundo la unipaz",
+      "answer": "La fundacion de Unipaz tuvo lugar el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "fundacion de la unipaz",
+      "answer": "Unipaz fue fundada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "me puedes decir la fecha de fundacion de la universidad",
+      "answer": "La Universidad de La Paz (Unipaz) fue fundada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "fecha de inicio de la unipaz",
+      "answer": "Unipaz comenzo sus operaciones el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "datos historicos de la unipaz",
+      "answer": "La historia de Unipaz incluye su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 y su evolucion como institucion educativa a lo largo de los a\u00c3\u00b1os."
+    },
+    {
+      "question": "cuando se establecio la universidad",
+      "answer": "La Universidad de La Paz (Unipaz) se establecio el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "historia de la unipaz",
+      "answer": "La historia de Unipaz abarca desde su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 hasta su desarrollo como institucion academica."
+    },
+    {
+      "question": "fundadores de la unipaz",
+      "answer": "Unipaz fue fundada por decreto ordenanzal o331, y los detalles sobre los fundadores pueden encontrarse en la documentacion oficial de la universidad."
+    },
+    {
+      "question": "fecha de inicio de la unipaz",
+      "answer": "Unipaz inicio sus operaciones el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "cuando se origino la unipaz",
+      "answer": "Unipaz tuvo su origen el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "unipaz, cuando se creo?",
+      "answer": "Unipaz fue creada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "informacion historica de la unipaz",
+      "answer": "La historia de Unipaz incluye detalles sobre su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 y su evolucion como institucion educativa a lo largo de los a\u00c3\u00b1os."
+    },
+    {
+      "question": "cuando nacio la universidad?",
+      "answer": "La Universidad de La Paz (Unipaz) nacio el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "unipaz, historia",
+      "answer": "La historia de Unipaz abarca desde su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 hasta su desarrollo como institucion academica."
+    },
+    {
+      "question": "fecha de creacion de la unipaz",
+      "answer": "Unipaz fue creada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "unipaz, fecha de fundacion",
+      "answer": "Unipaz fue fundada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "cual es la fecha de fundacion de la universidad?",
+      "answer": "La Universidad de La Paz (Unipaz) fue fundada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "unipaz, datos historicos",
+      "answer": "La historia de Unipaz incluye su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 y su evolucion como institucion educativa a lo largo de los a\u00c3\u00b1os."
+    },
+    {
+      "question": "la universidad, desde cuando existe?",
+      "answer": "La Universidad de La Paz (Unipaz) existe desde el 19 de noviembre de 1987, fecha de su fundacion por decreto ordenanzal o331."
+    },
+    {
+      "question": "historia de unipaz",
+      "answer": "La historia de Unipaz abarca desde su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 hasta su desarrollo como institucion academica."
+    },
+    {
+      "question": "unipaz, a\u00c3\u00b1o de inicio",
+      "answer": "Unipaz inicio sus operaciones el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "cuando nacio la unipaz?",
+      "answer": "Unipaz nacio el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "unipaz, informacion historica",
+      "answer": "La historia de Unipaz incluye detalles sobre su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 y su evolucion como institucion educativa a lo largo de los a\u00c3\u00b1os."
+    },
+    {
+      "question": "cuando se establecio unipaz?",
+      "answer": "Unipaz se establecio el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "cuando comenzo la universidad?",
+      "answer": "La Universidad de La Paz (Unipaz) comenzo el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "cuando se formo la unipaz?",
+      "answer": "Unipaz se formo el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "cual es la fecha de inicio de la unipaz?",
+      "answer": "La fecha de inicio de Unipaz es el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "unipaz, detalles historicos",
+      "answer": "La historia de Unipaz incluye detalles sobre su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 y su evolucion como institucion educativa a lo largo de los a\u00c3\u00b1os."
+    },
+    {
+      "question": "la universidad, desde cuando esta en funcionamiento?",
+      "answer": "La Universidad de La Paz (Unipaz) esta  en funcionamiento desde el 19 de noviembre de 1987, fecha de su fundacion por decreto ordenanzal o331."
+    },
+    {
+      "question": "historia de la universidad de la paz",
+      "answer": "La historia de la Universidad de La Paz (Unipaz) abarca desde su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 hasta su desarrollo como institucion academica."
+    },
+    {
+      "question": "unipaz, datos de fundacion",
+      "answer": "Unipaz fue fundada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cuando se fundo la universidad?",
+      "answer": "La Universidad de La Paz (Unipaz) fue fundada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cuando fue establecida la unipaz?",
+      "answer": "Unipaz fue establecida el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cuando abrio sus puertas la universidad de la paz?",
+      "answer": "La Universidad de La Paz (Unipaz) abrio sus puertas el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cuando se origino unipaz?",
+      "answer": "Unipaz se origino el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cuando fue creada la unipaz?",
+      "answer": "Unipaz fue creada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cual es la fecha de fundacion de la unipaz?",
+      "answer": "La fecha de fundacion de la Unipaz es el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "unipaz, antecedentes historicos",
+      "answer": "Los antecedentes historicos de Unipaz incluyen su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 y su evolucion como institucion educativa a lo largo de los a\u00c3\u00b1os."
+    },
+    {
+      "question": "la universidad, desde cuando esta en funcionamiento?",
+      "answer": "La Universidad de La Paz (Unipaz) esta en funcionamiento desde el 19 de noviembre de 1987, fecha de su fundacion por decreto ordenanzal o331."
+    },
+    {
+      "question": "historia de la universidad de la paz",
+      "answer": "La historia de la Universidad de La Paz (Unipaz) abarca desde su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 hasta su desarrollo como institucion academica."
+    },
+    {
+      "question": "unipaz, datos de fundacion",
+      "answer": "Unipaz fue fundada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cuando se fundo la universidad?",
+      "answer": "La Universidad de La Paz (Unipaz) fue fundada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cuando fue establecida la unipaz?",
+      "answer": "Unipaz fue establecida el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cuando abrio sus puertas la universidad de la paz?",
+      "answer": "La Universidad de La Paz (Unipaz) abrio sus puertas el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cuando se origino unipaz?",
+      "answer": "Unipaz se origino el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cuando fue creada la unipaz?",
+      "answer": "Unipaz fue creada el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "Cual es la fecha de fundacion de la unipaz?",
+      "answer": "La fecha de fundacion de la Unipaz es el 19 de noviembre de 1987 por decreto ordenanzal o331."
+    },
+    {
+      "question": "unipaz, antecedentes historicos",
+      "answer": "Los antecedentes historicos de Unipaz incluyen su fundacion el 19 de noviembre de 1987 por decreto ordenanzal o331 y su evolucion como institucion educativa a lo largo de los a\u00c3\u00b1os."
+    },
+    {
+      "question": "explicame sobre la matricula cero",
+      "answer": "La matricula cero es una politica de gratuidad en la matricula que busca garantizar el acceso a la educacion superior a estudiantes de bajos recursos economicos. En el caso de UNIPAZ (Instituto Universitario de la Paz), se ha implementado esta politica para el semestre A-2o21. Para acceder a la matricula cero en UNIPAZ, los estudiantes deben cumplir con los siguientes requisitos: 1) Ser estudiante de pregrado en UNIPAZ. 2) Ser colombiano o extranjero residente en Colombia. 3) Pertenecer a los estratos 1, 2 o 3 del Sisben. 4) No haber abandonado estudios universitarios en el pasado. 5) No tener titulo universitario previo. Puedes obtener mas informacion en la pagina oficial de UNIPAZ."
+    },
+    {
+      "question": "como es el proceso de matricula cero que ofrece unipaz",
+      "answer": "El proceso de matricula cero en UNIPAZ esta dise\u00c3\u00b1ado para garantizar que los estudiantes que cumplen con los requisitos puedan acceder a la gratuidad en la matricula. Los estudiantes interesados deben presentar los documentos requeridos que verifiquen su cumplimiento de los requisitos, y luego se les otorga la matricula cero para el semestre correspondiente. Si deseas obtener informacion detallada sobre el proceso y los documentos necesarios, te recomendamos visitar la pagina oficial de UNIPAZ."
+    },
+    {
+      "question": "matricula cero",
+      "answer": "La matricula cero es una politica que busca ofrecer educacion superior gratuita a estudiantes de bajos recursos economicos. UNIPAZ (Instituto Universitario de la Paz) ha implementado esta politica para el semestre A-2o21. Los requisitos para acceder a la matricula cero en UNIPAZ incluyen ser estudiante de pregrado en la institucion, ser colombiano o extranjero residente en Colombia, pertenecer a los estratos 1, 2 o 3 del Sisben, no haber abandonado estudios universitarios previos y no tener un titulo universitario previo. Para obtener informacion detallada, visita la pagina oficial de UNIPAZ."
+    },
+    {
+      "question": "hablame sobre la matricula cero",
+      "answer": "La matricula cero es una politica de gratuidad en la matricula que busca brindar acceso a la educacion superior a estudiantes de bajos recursos economicos. UNIPAZ (Instituto Universitario de la Paz) ha implementado esta politica para el semestre A-2o21. Los estudiantes que cumplen con ciertos requisitos, como ser colombiano o extranjero residente en Colombia, pertenecer a los estratos 1, 2 o 3 del Sisben, no haber abandonado estudios universitarios en el pasado y no tener un titulo universitario previo, pueden acceder a la matricula cero. Obten mas informacion en la pagina oficial de UNIPAZ."
+    },
+    {
+      "question": "cuentame acerca de la matricula cero en unipaz",
+      "answer": "La matricula cero en UNIPAZ es una politica que busca brindar educacion superior gratuita a estudiantes que cumplen con ciertos requisitos. Para acceder a la matricula cero en UNIPAZ en el semestre A-2o21, los estudiantes deben ser colombianos o extranjeros residentes en Colombia, pertenecer a los estratos 1, 2 o 3 del Sisben, no haber abandonado estudios universitarios previos y no tener un titulo universitario previo. Visita la pagina oficial de UNIPAZ para obtener mas informacion detallada sobre esta politica."
+    },
+    {
+      "question": "puedes hablarme sobre la matricula cero en unipaz",
+      "answer": "Claro, la matricula cero es una politica de gratuidad en la matricula que UNIPAZ (Instituto Universitario de la Paz) ha implementado para el semestre A-2o21. Esta politica busca brindar acceso a la educacion superior a estudiantes de bajos recursos economicos. Los estudiantes que deseen acceder a la matricula cero en UNIPAZ deben cumplir con ciertos requisitos, como ser colombianos o extranjeros residentes en Colombia, pertenecer a los estratos 1, 2 o 3 del Sisben, no haber abandonado estudios universitarios previos y no tener un titulo universitario previo. Te recomiendo visitar la pagina oficial de UNIPAZ para obtener informacion mas detallada sobre esta politica y el proceso para acceder a ella."
+    },
+    {
+      "question": "explicame que es la matricula cero",
+      "answer": "La matricula cero es una politica que busca garantizar el acceso a la educacion superior a estudiantes de bajos recursos economicos. En el caso de UNIPAZ (Instituto Universitario de la Paz), esta politica se ha implementado para el semestre A-2o21. Para acceder a la matricula cero en UNIPAZ, los estudiantes deben cumplir con requisitos especificos, como ser colombianos o extranjeros residentes en Colombia, pertenecer a los estratos 1, 2 o 3 del Sisben, no haber abandonado estudios universitarios en el pasado y no tener un titulo universitario previo. Si deseas obtener informacion mas detallada, te recomiendo visitar la pagina oficial de UNIPAZ."
+    },
+    {
+      "question": "quien soy yo",
+      "answer": "tu eres ronaldo romero vergel"
+    },
+    {
+      "question": "cuales becas existen en la unipaz",
+      "answer": "Existen 3 tipos de becas y estas son: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "cuales son las becas de la unipaz",
+      "answer": "Existen 3 tipos de becas en la Unipaz: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "que becas existen en la unipaz",
+      "answer": "En la Unipaz existen 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "que becas tiene la unipaz",
+      "answer": "La Unipaz tiene 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "quiero saber cuales son las becas de la unipaz",
+      "answer": "Las becas de la Unipaz incluyen la Beca por contraprestacion, la Beca por talento y la Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "becas existentes de la unipaz",
+      "answer": "Las becas existentes en la Unipaz son la Beca por contraprestacion, la Beca por talento y la Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "existen becas en la unipaz",
+      "answer": "Si, en la Unipaz existen 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "hay becas disponibles en la unipaz",
+      "answer": "Si, en la Unipaz hay 3 tipos de becas disponibles: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "puedo obtener becas en la unipaz",
+      "answer": "Si, puedes obtener becas en la Unipaz, incluyendo la Beca por contraprestacion, la Beca por talento y la Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "cual es la politica de becas en la unipaz",
+      "answer": "La politica de becas en la Unipaz incluye 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "habla sobre las becas en la unipaz",
+      "answer": "En la Unipaz, se ofrecen 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "como funcionan las becas en la unipaz",
+      "answer": "Las becas en la Unipaz funcionan de acuerdo a 3 tipos: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "que me puedes decir sobre las becas de la unipaz",
+      "answer": "Las becas de la Unipaz se dividen en 3 tipos: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "informacion sobre becas en la unipaz",
+      "answer": "La Unipaz ofrece informacion sobre 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "explicame el tema de becas en la unipaz",
+      "answer": "El tema de becas en la Unipaz se refiere a 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "me gustaria conocer las oportunidades de becas en la unipaz",
+      "answer": "En la Unipaz, existen 3 oportunidades de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "como puedo obtener una beca en la unipaz",
+      "answer": "Puedes obtener una beca en la Unipaz eligiendo entre 3 tipos: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "que debo hacer para solicitar una beca en la unipaz",
+      "answer": "Para solicitar una beca en la Unipaz, debes seguir el proceso correspondiente a 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "proceso de solicitud de becas en la unipaz",
+      "answer": "El proceso de solicitud de becas en la Unipaz implica elegir entre 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "me puedes orientar sobre las becas de la unipaz",
+      "answer": "Claro, en la Unipaz te puedo orientar sobre 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "necesito informacion sobre las becas de la unipaz",
+      "answer": "Por supuesto, puedo proporcionarte informacion sobre 3 tipos de becas en la Unipaz: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "cuales son los tipos de becas disponibles en la unipaz",
+      "answer": "Los tipos de becas disponibles en la Unipaz son 3: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "detalles sobre becas en la unipaz",
+      "answer": "Aqui tienes detalles sobre 3 tipos de becas en la Unipaz: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "puedes proporcionarme detalles sobre las becas de la unipaz",
+      "answer": "Por supuesto, puedo proporcionarte detalles sobre 3 tipos de becas en la Unipaz: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "que oportunidades de becas ofrece la unipaz",
+      "answer": "La Unipaz ofrece 3 oportunidades de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "cuantos estudiantes reciben becas en la unipaz",
+      "answer": "El numero de estudiantes que reciben becas en la Unipaz varia, ya que hay 3 tipos de becas disponibles: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "quiero saber acerca de las becas de la unipaz",
+      "answer": "Las becas de la Unipaz incluyen 3 tipos: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "que becas academicas ofrece la unipaz",
+      "answer": "La Unipaz ofrece 3 tipos de becas academicas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "dime acerca de las becas de la unipaz",
+      "answer": "Las becas de la Unipaz se dividen en 3 tipos: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "como funcionan las becas academicas en la unipaz",
+      "answer": "Las becas academicas en la Unipaz funcionan de acuerdo a 3 tipos: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "explicame el proceso de solicitud de becas en la unipaz",
+      "answer": "El proceso de solicitud de becas en la Unipaz implica elegir entre 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "habla sobre las becas academicas en la unipaz",
+      "answer": "En la Unipaz, se ofrecen 3 tipos de becas academicas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "necesito informacion sobre las becas academicas de la unipaz",
+      "answer": "Por supuesto, puedo proporcionarte informacion sobre 3 tipos de becas academicas en la Unipaz: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "cuales son los requisitos para obtener una beca en la unipaz",
+      "answer": "Los requisitos para obtener una beca en la Unipaz varian segun los 3 tipos de becas disponibles: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "requisitos para solicitar una beca en la unipaz",
+      "answer": "Los requisitos para solicitar una beca en la Unipaz dependen de los 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "cual es el proceso de seleccion para becas en la unipaz",
+      "answer": "El proceso de seleccion para becas en la Unipaz varia segun los 3 tipos de becas disponibles: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "criterios de seleccion para becas en la unipaz",
+      "answer": "Los criterios de seleccion para becas en la Unipaz dependen de los 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "como puedo postularme para una beca en la unipaz",
+      "answer": "Puedes postularte para una beca en la Unipaz siguiendo el proceso correspondiente a los 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "que debo hacer para ser considerado para una beca en la unipaz",
+      "answer": "Para ser considerado para una beca en la Unipaz, debes seguir el proceso correspondiente a los 3 tipos de becas: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "puedes guiarme sobre el proceso de solicitud de becas en la unipaz",
+      "answer": "Por supuesto, puedo guiarte sobre el proceso de solicitud de becas en la Unipaz, que varia segun los 3 tipos de becas disponibles: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "que pasos debo seguir para obtener una beca en la unipaz",
+      "answer": "Debes seguir los pasos correspondientes a los 3 tipos de becas disponibles en la Unipaz: Beca por contraprestacion, Beca por talento y Beca de honor (rendimiento academico)."
+    },
+    {
+      "question": "cual es el lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' y la frase unipaz avanza"
+    },
+    {
+      "question": "cual es el lema de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' y la frase unipaz avanza"
+    },
+    {
+      "question": "cual es la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' y la frase unipaz avanza"
+    },
+    {
+      "question": "cual es el slogan de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' y la frase unipaz avanza"
+    },
+    {
+      "question": "cual es el eslogan de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' y la frase unipaz avanza"
+    },
+    {
+      "question": "dime el lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' y la frase unipaz avanza"
+    },
+    {
+      "question": "dime la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "dime el slogan de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' y la frase unipaz avanza"
+    },
+    {
+      "question": "dime el eslogan de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' y la frase unipaz avanza"
+    },
+    {
+      "question": "que es el lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' y la frase unipaz avanza"
+    },
+    {
+      "question": "que es la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "que es el slogan de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "que es el eslogan de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "dame el lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "dame la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "dame el slogan de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "dame el eslogan de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "cual es el lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "cual es la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "cual es el slogan de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "cual es el eslogan de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "dinos el lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "dinos la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "dinos el slogan de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "dinos el eslogan de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "muestrame el lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "muestrame la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "muestrame el slogan de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "muestrame el eslogan de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "ense\u00c3\u00b1ame el lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "ense\u00c3\u00b1ame la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "ense\u00c3\u00b1ame el slogan de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "ense\u00c3\u00b1ame el eslogan de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "hablame del lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "hablame de la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "hablame del slogan de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "hablame del eslogan de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "explicame el lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "explicame la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "explicame el slogan de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "explicame el eslogan de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "informame sobre el lema de la unipaz",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "informame sobre la frase de la universidad",
+      "answer": "El lema de la Universidad de la Paz (UNIPAZ) en Barrancabermeja es 'Educacion para la Paz y el Desarrollo Sostenible' and la frase unipaz avanza"
+    },
+    {
+      "question": "cuando termina este semestre de clases",
+      "answer": "Segun la informacion que tengo hasta este momento, el semestre B, del a\u00c3\u00b1o 2o23 termina a finales de noviembre."
+    },
+    {
+      "question": "cuando son vacaciones",
+      "answer": "Segun el calendario academico, las vacaciones de verano comienzan a mediados de diciembre y terminan a principios de febrero."
+    },
+    {
+      "question": "cuando finaliza el semestre escolar",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "cuando empiezan las vacaciones",
+      "answer": "Las vacaciones de verano comienzan a mediados de diciembre."
+    },
+    {
+      "question": "cuando puedo descansar",
+      "answer": "Puedes descansar durante las vacaciones de verano, que comienzan a mediados de diciembre."
+    },
+    {
+      "question": "cual es la fecha de finalizacion del semestre academico",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "cuando se acaban las clases",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, termina a finales de noviembre."
+    },
+    {
+      "question": "cuando comienzan las vacaciones de la universidad",
+      "answer": "Las vacaciones de verano de la universidad comienzan a mediados de diciembre."
+    },
+    {
+      "question": "cuando terminan las clases este semestre",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, termina a finales de noviembre."
+    },
+    {
+      "question": "cual es la fecha de inicio de las vacaciones de este semestre",
+      "answer": "Las vacaciones de verano comienzan a mediados de diciembre."
+    },
+    {
+      "question": "dime cuando termina el semestre de clases",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "necesito saber cuando comienzan las vacaciones",
+      "answer": "Las vacaciones de verano comienzan a mediados de diciembre."
+    },
+    {
+      "question": "hablame sobre el final del semestre escolar",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "dime cuando se acaban las clases",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, termina a finales de noviembre."
+    },
+    {
+      "question": "explicame cuando termina este semestre",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "dime cual es la fecha de finalizacion del semestre",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "hablame sobre las vacaciones de la universidad",
+      "answer": "Las vacaciones de verano de la universidad comienzan a mediados de diciembre."
+    },
+    {
+      "question": "cuando finaliza el semestre academico",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "cuando son las vacaciones universitarias",
+      "answer": "Las vacaciones de verano de la universidad comienzan a mediados de diciembre."
+    },
+    {
+      "question": "cuando termina el semestre",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "dime la fecha de finalizacion de clases",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "dime la fecha de inicio de las vacaciones",
+      "answer": "Las vacaciones de verano comienzan a mediados de diciembre."
+    },
+    {
+      "question": "necesito informacion sobre el calendario academico",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre. Las vacaciones de verano comienzan a mediados de diciembre."
+    },
+    {
+      "question": "dime cuando terminan las clases",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, termina a finales de noviembre."
+    },
+    {
+      "question": "hablame de las fechas de vacaciones",
+      "answer": "Las vacaciones de verano comienzan a mediados de diciembre."
+    },
+    {
+      "question": "cuando termina el periodo escolar",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "cuando son las vacaciones de la universidad",
+      "answer": "Las vacaciones de verano de la universidad comienzan a mediados de diciembre."
+    },
+    {
+      "question": "cuando empieza el receso escolar",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "hablame del fin del semestre",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "cuando comienzan las vacaciones universitarias",
+      "answer": "Las vacaciones de verano de la universidad comienzan a mediados de diciembre."
+    },
+    {
+      "question": "cuando es el descanso de clases",
+      "answer": "Puedes descansar durante las vacaciones de verano, que comienzan a mediados de diciembre."
+    },
+    {
+      "question": "cuando es el receso academico",
+      "answer": "El receso academico corresponde a las vacaciones de verano, que comienzan a mediados de diciembre."
+    },
+    {
+      "question": "dime cuando finaliza el semestre academico",
+      "answer": "El semestre B, del a\u00c3\u00b1o 2o23, finaliza a finales de noviembre."
+    },
+    {
+      "question": "vale muchas gracias chao ay s\u00ed porfa hasta la firma",
+      "answer": "t\u00fa ya es para todo"
+    }
+  ]
+}
